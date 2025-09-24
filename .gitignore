@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs/editors
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / web
+node_modules/
+dist/
+build/
+
+# Java/Gradle
+.gradle/
+build/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+android/.gradle/
+ios/Pods/
+
+# Xcode
+DerivedData/
+*.xcworkspace/
+xcuserdata/
+
+# Misc
+*.log

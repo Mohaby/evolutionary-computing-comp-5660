@@ -1,0 +1,17 @@
+[pac_init]
+depth_limit = 7
+terminals = ('G', 'P', 'F', 'W', 'C')  
+nonterminals = ('+', '-', '*', '/', 'RAND')
+
+[game]
+game_map = map.txt
+pill_spawn = waves
+pill_density = 1/3
+fruit_prob = 1/75
+fruit_score = 10
+fruit_spawn = corners_spawned
+time_multiplier = 2.5
+
+[hill_climber]
+mutation_probability = 0.1  
+mutation_scale = 0.5        

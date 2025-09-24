@@ -1,0 +1,3243 @@
+mu: 1000
+num_children: 400
+mutation rate: 0.05
+parent selection: k_tournament_with_replacement
+parent selection kwargs: {'k': 2}
+survival selection: k_tournament_without_replacement
+survival selection kwargs: {'k': 3}
+recombination kwargs: {'method': 'uniform'}
+mutation kwargs: {'bonus': False, 'bounds': ((0, 50), (0, 15))}
+Initial population size: 1000
+Evaluations: 1000
+Local best length: 9
+Local mean length: -0.957
+Local best width: 1
+Local mean width: -0.991
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 6
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 14
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 1400
+Local best length: 14
+Local mean length: -0.932
+Local best width: 2
+Local mean width: -0.986
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 7.666666666666667
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 26
+Number of children: 400
+Number of mutations: 8
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 1800
+Local best length: 14
+Local mean length: -0.942
+Local best width: 2
+Local mean width: -0.987
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 7.666666666666667
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 26
+Number of children: 400
+Number of mutations: 31
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 2200
+Local best length: 14
+Local mean length: -0.92
+Local best width: 2
+Local mean width: -0.979
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 9
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 30
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 2600
+Local best length: 14
+Local mean length: -0.92
+Local best width: 2
+Local mean width: -0.979
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 9
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 30
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 3000
+Local best length: 14
+Local mean length: -0.92
+Local best width: 2
+Local mean width: -0.979
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 9
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 30
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 3400
+Local best length: 14
+Local mean length: -0.9
+Local best width: 2
+Local mean width: -0.974
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 9
+Local Pareto front mean width: 1.5
+Local Pareto front hypervolume: 35
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 3800
+Local best length: 14
+Local mean length: -0.873
+Local best width: 2
+Local mean width: -0.965
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 12
+Local Pareto front mean width: 1.5
+Local Pareto front hypervolume: 41
+Number of children: 400
+Number of mutations: 27
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 4200
+Local best length: 14
+Local mean length: -0.84
+Local best width: 2
+Local mean width: -0.96
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 12.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 41
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 4600
+Local best length: 14
+Local mean length: -0.837
+Local best width: 2
+Local mean width: -0.96
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 12.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 41
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 5000
+Local best length: 14
+Local mean length: -0.794
+Local best width: 2
+Local mean width: -0.947
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 12.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 41
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 5400
+Local best length: 14
+Local mean length: -0.759
+Local best width: 2
+Local mean width: -0.938
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 12.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 41
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 5800
+Local best length: 14
+Local mean length: -0.733
+Local best width: 2
+Local mean width: -0.927
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 12.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 41
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 6200
+Local best length: 14
+Local mean length: -0.703
+Local best width: 2
+Local mean width: -0.919
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 13.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 44
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 6600
+Local best length: 14
+Local mean length: -0.659
+Local best width: 2
+Local mean width: -0.91
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 13.666666666666666
+Local Pareto front mean width: 1.3333333333333333
+Local Pareto front hypervolume: 44
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 7000
+Local best length: 14
+Local mean length: -0.642
+Local best width: 3
+Local mean width: -0.898
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 10.25
+Local Pareto front mean width: 1.75
+Local Pareto front hypervolume: 45
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 7400
+Local best length: 14
+Local mean length: -0.6
+Local best width: 3
+Local mean width: -0.89
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 10.25
+Local Pareto front mean width: 1.75
+Local Pareto front hypervolume: 45
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 7800
+Local best length: 24
+Local mean length: -0.527
+Local best width: 3
+Local mean width: -0.866
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 24
+Local Pareto front mean width: 3
+Local Pareto front hypervolume: 100
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 8200
+Local best length: 24
+Local mean length: -0.482
+Local best width: 3
+Local mean width: -0.851
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 24
+Local Pareto front mean width: 3
+Local Pareto front hypervolume: 100
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 8600
+Local best length: 24
+Local mean length: -0.406
+Local best width: 3
+Local mean width: -0.824
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 24
+Local Pareto front mean width: 3
+Local Pareto front hypervolume: 100
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 9000
+Local best length: 24
+Local mean length: -0.288
+Local best width: 5
+Local mean width: -0.792
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 12.5
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 104
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 9400
+Local best length: 24
+Local mean length: -0.13
+Local best width: 5
+Local mean width: -0.761
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 12.5
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 104
+Number of children: 400
+Number of mutations: 13
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 9800
+Local best length: 24
+Local mean length: -0.013
+Local best width: 5
+Local mean width: -0.72
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 9.333333333333334
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 106
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 10200
+Local best length: 24
+Local mean length: 0.161
+Local best width: 5
+Local mean width: -0.682
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 10.333333333333334
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 109
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 10600
+Local best length: 24
+Local mean length: 0.333
+Local best width: 5
+Local mean width: -0.627
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 10.333333333333334
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 109
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 11000
+Local best length: 24
+Local mean length: 0.596
+Local best width: 5
+Local mean width: -0.546
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 10.333333333333334
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 109
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 11400
+Local best length: 24
+Local mean length: 0.962
+Local best width: 5
+Local mean width: -0.44
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 11
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 111
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 11800
+Local best length: 24
+Local mean length: 1.292
+Local best width: 5
+Local mean width: -0.336
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 8.5
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 111
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 12200
+Local best length: 24
+Local mean length: 1.672
+Local best width: 5
+Local mean width: -0.248
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 8.6
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 109
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 12600
+Local best length: 24
+Local mean length: 2.142
+Local best width: 5
+Local mean width: -0.098
+Individuals in the Pareto front: 6
+Local Pareto front mean length: 8.166666666666666
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 109
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 13000
+Local best length: 24
+Local mean length: 2.702
+Local best width: 5
+Local mean width: 0.07
+Individuals in the Pareto front: 6
+Local Pareto front mean length: 8.166666666666666
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 109
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 13400
+Local best length: 24
+Local mean length: 3.222
+Local best width: 5
+Local mean width: 0.208
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 10.666666666666666
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 110
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 13800
+Local best length: 24
+Local mean length: 3.762
+Local best width: 5
+Local mean width: 0.363
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 10.666666666666666
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 110
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 14200
+Local best length: 24
+Local mean length: 4.437
+Local best width: 5
+Local mean width: 0.502
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 18.666666666666668
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 134
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 14600
+Local best length: 23
+Local mean length: 4.919
+Local best width: 5
+Local mean width: 0.595
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.5
+Local Pareto front mean width: 2.25
+Local Pareto front hypervolume: 127
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 15000
+Local best length: 24
+Local mean length: 5.57
+Local best width: 5
+Local mean width: 0.716
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 18.666666666666668
+Local Pareto front mean width: 3.3333333333333335
+Local Pareto front hypervolume: 130
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 15400
+Local best length: 24
+Local mean length: 6.082
+Local best width: 5
+Local mean width: 0.816
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 18.666666666666668
+Local Pareto front mean width: 3.3333333333333335
+Local Pareto front hypervolume: 130
+Number of children: 400
+Number of mutations: 29
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 15800
+Local best length: 24
+Local mean length: 6.539
+Local best width: 5
+Local mean width: 0.893
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 18.666666666666668
+Local Pareto front mean width: 3.3333333333333335
+Local Pareto front hypervolume: 130
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 16200
+Local best length: 24
+Local mean length: 7.064
+Local best width: 5
+Local mean width: 0.979
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 18.666666666666668
+Local Pareto front mean width: 3.3333333333333335
+Local Pareto front hypervolume: 130
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 16600
+Local best length: 24
+Local mean length: 7.445
+Local best width: 5
+Local mean width: 0.999
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 18.666666666666668
+Local Pareto front mean width: 3.3333333333333335
+Local Pareto front hypervolume: 130
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 17000
+Local best length: 25
+Local mean length: 7.628
+Local best width: 5
+Local mean width: 0.991
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 17400
+Local best length: 25
+Local mean length: 7.914
+Local best width: 5
+Local mean width: 1.06
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 17800
+Local best length: 25
+Local mean length: 8.252
+Local best width: 5
+Local mean width: 1.055
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 18200
+Local best length: 25
+Local mean length: 8.428
+Local best width: 5
+Local mean width: 1.098
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 25
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 18600
+Local best length: 25
+Local mean length: 8.677
+Local best width: 5
+Local mean width: 1.11
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 19000
+Local best length: 25
+Local mean length: 8.9
+Local best width: 5
+Local mean width: 1.147
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 17.8
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 19400
+Local best length: 25
+Local mean length: 9.5
+Local best width: 5
+Local mean width: 1.176
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 17.8
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 19800
+Local best length: 25
+Local mean length: 9.893
+Local best width: 5
+Local mean width: 1.168
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 17.8
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 135
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 20200
+Local best length: 25
+Local mean length: 10.25
+Local best width: 5
+Local mean width: 1.14
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 23.5
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 147
+Number of children: 400
+Number of mutations: 27
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 20600
+Local best length: 25
+Local mean length: 10.472
+Local best width: 5
+Local mean width: 1.164
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 23.666666666666668
+Local Pareto front mean width: 3.6666666666666665
+Local Pareto front hypervolume: 151
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 21000
+Local best length: 25
+Local mean length: 10.788
+Local best width: 6
+Local mean width: 1.152
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.25
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 158
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 21400
+Local best length: 25
+Local mean length: 11.172
+Local best width: 6
+Local mean width: 1.177
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.25
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 158
+Number of children: 400
+Number of mutations: 10
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 21800
+Local best length: 25
+Local mean length: 11.707
+Local best width: 6
+Local mean width: 1.181
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.25
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 158
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 22200
+Local best length: 25
+Local mean length: 11.912
+Local best width: 6
+Local mean width: 1.145
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.25
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 158
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 22600
+Local best length: 26
+Local mean length: 12.419
+Local best width: 6
+Local mean width: 1.16
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 20.6
+Local Pareto front mean width: 3.4
+Local Pareto front hypervolume: 159
+Number of children: 400
+Number of mutations: 12
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 23000
+Local best length: 26
+Local mean length: 12.969
+Local best width: 6
+Local mean width: 1.226
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 161
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 23400
+Local best length: 26
+Local mean length: 13.484
+Local best width: 6
+Local mean width: 1.218
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 19.75
+Local Pareto front mean width: 3.75
+Local Pareto front hypervolume: 161
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 23800
+Local best length: 27
+Local mean length: 13.643
+Local best width: 6
+Local mean width: 1.184
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 20
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 164
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 24200
+Local best length: 27
+Local mean length: 13.964
+Local best width: 6
+Local mean width: 1.178
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 20
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 164
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 24600
+Local best length: 27
+Local mean length: 14.256
+Local best width: 6
+Local mean width: 1.186
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 20
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 166
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 25000
+Local best length: 27
+Local mean length: 14.516
+Local best width: 6
+Local mean width: 1.175
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 20
+Local Pareto front mean width: 4.25
+Local Pareto front hypervolume: 166
+Number of children: 400
+Number of mutations: 28
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 25400
+Local best length: 28
+Local mean length: 14.877
+Local best width: 6
+Local mean width: 1.158
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 21.6
+Local Pareto front mean width: 3.6
+Local Pareto front hypervolume: 168
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 25800
+Local best length: 28
+Local mean length: 15.296
+Local best width: 6
+Local mean width: 1.174
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 21.6
+Local Pareto front mean width: 3.6
+Local Pareto front hypervolume: 168
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 26200
+Local best length: 28
+Local mean length: 15.685
+Local best width: 6
+Local mean width: 1.228
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 21.6
+Local Pareto front mean width: 3.6
+Local Pareto front hypervolume: 168
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 26600
+Local best length: 28
+Local mean length: 15.699
+Local best width: 6
+Local mean width: 1.18
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 21.6
+Local Pareto front mean width: 3.6
+Local Pareto front hypervolume: 168
+Number of children: 400
+Number of mutations: 25
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 27000
+Local best length: 28
+Local mean length: 16.201
+Local best width: 6
+Local mean width: 1.219
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 24
+Local Pareto front mean width: 3.6
+Local Pareto front hypervolume: 180
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 27400
+Local best length: 28
+Local mean length: 16.674
+Local best width: 6
+Local mean width: 1.229
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 24
+Local Pareto front mean width: 3.6
+Local Pareto front hypervolume: 180
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 27800
+Local best length: 32
+Local mean length: 17.213
+Local best width: 6
+Local mean width: 1.301
+Individuals in the Pareto front: 7
+Local Pareto front mean length: 25.428571428571427
+Local Pareto front mean width: 2.857142857142857
+Local Pareto front hypervolume: 183
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 28200
+Local best length: 32
+Local mean length: 17.825
+Local best width: 6
+Local mean width: 1.344
+Individuals in the Pareto front: 7
+Local Pareto front mean length: 25.428571428571427
+Local Pareto front mean width: 2.857142857142857
+Local Pareto front hypervolume: 183
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 28600
+Local best length: 32
+Local mean length: 18.054
+Local best width: 6
+Local mean width: 1.381
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 25.2
+Local Pareto front mean width: 3.2
+Local Pareto front hypervolume: 187
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 29000
+Local best length: 32
+Local mean length: 18.445
+Local best width: 6
+Local mean width: 1.416
+Individuals in the Pareto front: 6
+Local Pareto front mean length: 25.666666666666668
+Local Pareto front mean width: 2.8333333333333335
+Local Pareto front hypervolume: 187
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 29400
+Local best length: 32
+Local mean length: 18.751
+Local best width: 6
+Local mean width: 1.461
+Individuals in the Pareto front: 6
+Local Pareto front mean length: 25
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 190
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 29800
+Local best length: 32
+Local mean length: 18.88
+Local best width: 6
+Local mean width: 1.511
+Individuals in the Pareto front: 7
+Local Pareto front mean length: 25.857142857142858
+Local Pareto front mean width: 3.142857142857143
+Local Pareto front hypervolume: 190
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 30200
+Local best length: 32
+Local mean length: 19.543
+Local best width: 6
+Local mean width: 1.6
+Individuals in the Pareto front: 7
+Local Pareto front mean length: 25.857142857142858
+Local Pareto front mean width: 3.142857142857143
+Local Pareto front hypervolume: 190
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 30600
+Local best length: 32
+Local mean length: 19.671
+Local best width: 6
+Local mean width: 1.684
+Individuals in the Pareto front: 8
+Local Pareto front mean length: 26.125
+Local Pareto front mean width: 3.25
+Local Pareto front hypervolume: 191
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 31000
+Local best length: 32
+Local mean length: 20.114
+Local best width: 6
+Local mean width: 1.809
+Individuals in the Pareto front: 8
+Local Pareto front mean length: 26.375
+Local Pareto front mean width: 3.25
+Local Pareto front hypervolume: 192
+Number of children: 400
+Number of mutations: 27
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 31400
+Local best length: 32
+Local mean length: 20.333
+Local best width: 6
+Local mean width: 1.831
+Individuals in the Pareto front: 10
+Local Pareto front mean length: 26.5
+Local Pareto front mean width: 3.2
+Local Pareto front hypervolume: 193
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 31800
+Local best length: 32
+Local mean length: 20.891
+Local best width: 7
+Local mean width: 1.864
+Individuals in the Pareto front: 12
+Local Pareto front mean length: 24.916666666666668
+Local Pareto front mean width: 3.8333333333333335
+Local Pareto front hypervolume: 213
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 32200
+Local best length: 32
+Local mean length: 21.245
+Local best width: 7
+Local mean width: 1.837
+Individuals in the Pareto front: 11
+Local Pareto front mean length: 26.454545454545453
+Local Pareto front mean width: 3.1818181818181817
+Local Pareto front hypervolume: 215
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 32600
+Local best length: 32
+Local mean length: 21.696
+Local best width: 7
+Local mean width: 1.864
+Individuals in the Pareto front: 11
+Local Pareto front mean length: 26.545454545454547
+Local Pareto front mean width: 3.1818181818181817
+Local Pareto front hypervolume: 216
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 33000
+Local best length: 32
+Local mean length: 22.286
+Local best width: 7
+Local mean width: 1.895
+Individuals in the Pareto front: 10
+Local Pareto front mean length: 26.6
+Local Pareto front mean width: 3.3
+Local Pareto front hypervolume: 220
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 33400
+Local best length: 32
+Local mean length: 22.647
+Local best width: 7
+Local mean width: 1.914
+Individuals in the Pareto front: 9
+Local Pareto front mean length: 28
+Local Pareto front mean width: 2.888888888888889
+Local Pareto front hypervolume: 223
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 33800
+Local best length: 32
+Local mean length: 22.989
+Local best width: 7
+Local mean width: 1.945
+Individuals in the Pareto front: 7
+Local Pareto front mean length: 26
+Local Pareto front mean width: 4.285714285714286
+Local Pareto front hypervolume: 225
+Number of children: 400
+Number of mutations: 27
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 34200
+Local best length: 32
+Local mean length: 23.412
+Local best width: 7
+Local mean width: 2.032
+Individuals in the Pareto front: 9
+Local Pareto front mean length: 26.555555555555557
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 225
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 34600
+Local best length: 32
+Local mean length: 23.621
+Local best width: 7
+Local mean width: 2.067
+Individuals in the Pareto front: 9
+Local Pareto front mean length: 26.88888888888889
+Local Pareto front mean width: 3.888888888888889
+Local Pareto front hypervolume: 224
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 35000
+Local best length: 32
+Local mean length: 24.135
+Local best width: 7
+Local mean width: 2.146
+Individuals in the Pareto front: 5
+Local Pareto front mean length: 25.8
+Local Pareto front mean width: 4.8
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 35400
+Local best length: 32
+Local mean length: 24.348
+Local best width: 7
+Local mean width: 2.154
+Individuals in the Pareto front: 6
+Local Pareto front mean length: 25.833333333333332
+Local Pareto front mean width: 4.833333333333333
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 35800
+Local best length: 32
+Local mean length: 24.6
+Local best width: 7
+Local mean width: 2.16
+Individuals in the Pareto front: 7
+Local Pareto front mean length: 25.571428571428573
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 36200
+Local best length: 32
+Local mean length: 24.88
+Local best width: 7
+Local mean width: 2.186
+Individuals in the Pareto front: 8
+Local Pareto front mean length: 25.375
+Local Pareto front mean width: 5.125
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 36600
+Local best length: 32
+Local mean length: 25.154
+Local best width: 7
+Local mean width: 2.221
+Individuals in the Pareto front: 10
+Local Pareto front mean length: 25.3
+Local Pareto front mean width: 5.2
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 37000
+Local best length: 32
+Local mean length: 25.22
+Local best width: 7
+Local mean width: 2.224
+Individuals in the Pareto front: 12
+Local Pareto front mean length: 25.25
+Local Pareto front mean width: 5.25
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 37400
+Local best length: 32
+Local mean length: 25.554
+Local best width: 7
+Local mean width: 2.334
+Individuals in the Pareto front: 12
+Local Pareto front mean length: 25.25
+Local Pareto front mean width: 5.25
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 37800
+Local best length: 32
+Local mean length: 25.859
+Local best width: 7
+Local mean width: 2.396
+Individuals in the Pareto front: 13
+Local Pareto front mean length: 25.153846153846153
+Local Pareto front mean width: 5.3076923076923075
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 38200
+Local best length: 32
+Local mean length: 26.155
+Local best width: 7
+Local mean width: 2.382
+Individuals in the Pareto front: 13
+Local Pareto front mean length: 25.153846153846153
+Local Pareto front mean width: 5.3076923076923075
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 38600
+Local best length: 32
+Local mean length: 26.428
+Local best width: 7
+Local mean width: 2.435
+Individuals in the Pareto front: 14
+Local Pareto front mean length: 24.714285714285715
+Local Pareto front mean width: 5.428571428571429
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 12
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 39000
+Local best length: 32
+Local mean length: 26.659
+Local best width: 7
+Local mean width: 2.441
+Individuals in the Pareto front: 13
+Local Pareto front mean length: 25.153846153846153
+Local Pareto front mean width: 5.3076923076923075
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 25
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 39400
+Local best length: 32
+Local mean length: 26.943
+Local best width: 7
+Local mean width: 2.503
+Individuals in the Pareto front: 15
+Local Pareto front mean length: 25.266666666666666
+Local Pareto front mean width: 5.266666666666667
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 39800
+Local best length: 32
+Local mean length: 27.273
+Local best width: 7
+Local mean width: 2.598
+Individuals in the Pareto front: 16
+Local Pareto front mean length: 25.4375
+Local Pareto front mean width: 5.1875
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 40200
+Local best length: 32
+Local mean length: 27.453
+Local best width: 7
+Local mean width: 2.608
+Individuals in the Pareto front: 109
+Local Pareto front mean length: 30.862385321100916
+Local Pareto front mean width: 1.7339449541284404
+Local Pareto front hypervolume: 228
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 40600
+Local best length: 32
+Local mean length: 27.652
+Local best width: 7
+Local mean width: 2.599
+Individuals in the Pareto front: 19
+Local Pareto front mean length: 25.31578947368421
+Local Pareto front mean width: 5.2631578947368425
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 41000
+Local best length: 32
+Local mean length: 27.937
+Local best width: 7
+Local mean width: 2.75
+Individuals in the Pareto front: 19
+Local Pareto front mean length: 25.31578947368421
+Local Pareto front mean width: 5.2631578947368425
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 41400
+Local best length: 32
+Local mean length: 28.057
+Local best width: 7
+Local mean width: 2.866
+Individuals in the Pareto front: 25
+Local Pareto front mean length: 25.96
+Local Pareto front mean width: 4.96
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 10
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 41800
+Local best length: 32
+Local mean length: 28.079
+Local best width: 7
+Local mean width: 3.039
+Individuals in the Pareto front: 28
+Local Pareto front mean length: 25.892857142857142
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 42200
+Local best length: 32
+Local mean length: 27.983
+Local best width: 7
+Local mean width: 3.229
+Individuals in the Pareto front: 29
+Local Pareto front mean length: 25.75862068965517
+Local Pareto front mean width: 5.068965517241379
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 31
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 42600
+Local best length: 32
+Local mean length: 27.793
+Local best width: 7
+Local mean width: 3.284
+Individuals in the Pareto front: 33
+Local Pareto front mean length: 25.727272727272727
+Local Pareto front mean width: 5.090909090909091
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 43000
+Local best length: 32
+Local mean length: 27.689
+Local best width: 7
+Local mean width: 3.404
+Individuals in the Pareto front: 42
+Local Pareto front mean length: 25.547619047619047
+Local Pareto front mean width: 5.190476190476191
+Local Pareto front hypervolume: 229
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 43400
+Local best length: 34
+Local mean length: 27.766
+Local best width: 7
+Local mean width: 3.436
+Individuals in the Pareto front: 53
+Local Pareto front mean length: 25.79245283018868
+Local Pareto front mean width: 5.0754716981132075
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 43800
+Local best length: 34
+Local mean length: 27.642
+Local best width: 7
+Local mean width: 3.547
+Individuals in the Pareto front: 66
+Local Pareto front mean length: 25.651515151515152
+Local Pareto front mean width: 5.151515151515151
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 44200
+Local best length: 34
+Local mean length: 27.465
+Local best width: 7
+Local mean width: 3.62
+Individuals in the Pareto front: 80
+Local Pareto front mean length: 25.6375
+Local Pareto front mean width: 5.1625
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 44600
+Local best length: 34
+Local mean length: 27.377
+Local best width: 7
+Local mean width: 3.724
+Individuals in the Pareto front: 91
+Local Pareto front mean length: 25.593406593406595
+Local Pareto front mean width: 5.186813186813187
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 45000
+Local best length: 34
+Local mean length: 27.486
+Local best width: 7
+Local mean width: 3.686
+Individuals in the Pareto front: 40
+Local Pareto front mean length: 25.075
+Local Pareto front mean width: 5.45
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 45400
+Local best length: 34
+Local mean length: 27.449
+Local best width: 7
+Local mean width: 3.674
+Individuals in the Pareto front: 43
+Local Pareto front mean length: 25.186046511627907
+Local Pareto front mean width: 5.395348837209302
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 45800
+Local best length: 34
+Local mean length: 27.066
+Local best width: 7
+Local mean width: 3.908
+Individuals in the Pareto front: 50
+Local Pareto front mean length: 25.18
+Local Pareto front mean width: 5.4
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 46200
+Local best length: 34
+Local mean length: 26.831
+Local best width: 7
+Local mean width: 4.102
+Individuals in the Pareto front: 58
+Local Pareto front mean length: 25.086206896551722
+Local Pareto front mean width: 5.448275862068965
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 46600
+Local best length: 34
+Local mean length: 26.738
+Local best width: 7
+Local mean width: 4.153
+Individuals in the Pareto front: 68
+Local Pareto front mean length: 24.970588235294116
+Local Pareto front mean width: 5.514705882352941
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 47000
+Local best length: 34
+Local mean length: 26.743
+Local best width: 7
+Local mean width: 4.198
+Individuals in the Pareto front: 79
+Local Pareto front mean length: 24.772151898734176
+Local Pareto front mean width: 5.620253164556962
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 47400
+Local best length: 33
+Local mean length: 26.699
+Local best width: 7
+Local mean width: 4.207
+Individuals in the Pareto front: 93
+Local Pareto front mean length: 24.752688172043012
+Local Pareto front mean width: 5.634408602150538
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 25
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 47800
+Local best length: 33
+Local mean length: 26.598
+Local best width: 7
+Local mean width: 4.251
+Individuals in the Pareto front: 115
+Local Pareto front mean length: 24.582608695652173
+Local Pareto front mean width: 5.71304347826087
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 48200
+Local best length: 33
+Local mean length: 26.579
+Local best width: 7
+Local mean width: 4.311
+Individuals in the Pareto front: 140
+Local Pareto front mean length: 24.557142857142857
+Local Pareto front mean width: 5.728571428571429
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 48600
+Local best length: 33
+Local mean length: 26.351
+Local best width: 7
+Local mean width: 4.367
+Individuals in the Pareto front: 183
+Local Pareto front mean length: 24.459016393442624
+Local Pareto front mean width: 5.781420765027322
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 49000
+Local best length: 33
+Local mean length: 26.202
+Local best width: 7
+Local mean width: 4.471
+Individuals in the Pareto front: 228
+Local Pareto front mean length: 24.337719298245613
+Local Pareto front mean width: 5.837719298245614
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 49400
+Local best length: 33
+Local mean length: 26.023
+Local best width: 7
+Local mean width: 4.644
+Individuals in the Pareto front: 305
+Local Pareto front mean length: 24.25245901639344
+Local Pareto front mean width: 5.878688524590164
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 31
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 49800
+Local best length: 33
+Local mean length: 25.681
+Local best width: 7
+Local mean width: 4.872
+Individuals in the Pareto front: 418
+Local Pareto front mean length: 24.181818181818183
+Local Pareto front mean width: 5.909090909090909
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 50200
+Local best length: 33
+Local mean length: 25.27
+Local best width: 7
+Local mean width: 5.179
+Individuals in the Pareto front: 568
+Local Pareto front mean length: 24.121478873239436
+Local Pareto front mean width: 5.938380281690141
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 50600
+Local best length: 33
+Local mean length: 24.729
+Local best width: 7
+Local mean width: 5.511
+Individuals in the Pareto front: 750
+Local Pareto front mean length: 24.092
+Local Pareto front mean width: 5.953333333333333
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 51000
+Local best length: 33
+Local mean length: 24.63
+Local best width: 7
+Local mean width: 5.608
+Individuals in the Pareto front: 19
+Local Pareto front mean length: 28.263157894736842
+Local Pareto front mean width: 4.052631578947368
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 51400
+Local best length: 33
+Local mean length: 24.649
+Local best width: 7
+Local mean width: 5.608
+Individuals in the Pareto front: 20
+Local Pareto front mean length: 28.45
+Local Pareto front mean width: 4.05
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 51800
+Local best length: 33
+Local mean length: 24.635
+Local best width: 7
+Local mean width: 5.625
+Individuals in the Pareto front: 27
+Local Pareto front mean length: 27.962962962962962
+Local Pareto front mean width: 4.37037037037037
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 52200
+Local best length: 33
+Local mean length: 24.648
+Local best width: 7
+Local mean width: 5.624
+Individuals in the Pareto front: 31
+Local Pareto front mean length: 27.516129032258064
+Local Pareto front mean width: 4.645161290322581
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 52600
+Local best length: 33
+Local mean length: 24.811
+Local best width: 7
+Local mean width: 5.519
+Individuals in the Pareto front: 36
+Local Pareto front mean length: 26.86111111111111
+Local Pareto front mean width: 5.055555555555555
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 53000
+Local best length: 33
+Local mean length: 24.819
+Local best width: 7
+Local mean width: 5.526
+Individuals in the Pareto front: 38
+Local Pareto front mean length: 26.763157894736842
+Local Pareto front mean width: 5.105263157894737
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 10
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 53400
+Local best length: 33
+Local mean length: 24.831
+Local best width: 7
+Local mean width: 5.532
+Individuals in the Pareto front: 48
+Local Pareto front mean length: 26.5625
+Local Pareto front mean width: 5.229166666666667
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 53800
+Local best length: 33
+Local mean length: 24.845
+Local best width: 7
+Local mean width: 5.543
+Individuals in the Pareto front: 65
+Local Pareto front mean length: 26.092307692307692
+Local Pareto front mean width: 5.553846153846154
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 54200
+Local best length: 33
+Local mean length: 24.787
+Local best width: 7
+Local mean width: 5.593
+Individuals in the Pareto front: 79
+Local Pareto front mean length: 25.746835443037973
+Local Pareto front mean width: 5.784810126582278
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 54600
+Local best length: 33
+Local mean length: 24.782
+Local best width: 7
+Local mean width: 5.614
+Individuals in the Pareto front: 102
+Local Pareto front mean length: 25.54901960784314
+Local Pareto front mean width: 5.911764705882353
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 55000
+Local best length: 33
+Local mean length: 24.758
+Local best width: 7
+Local mean width: 5.657
+Individuals in the Pareto front: 131
+Local Pareto front mean length: 25.328244274809162
+Local Pareto front mean width: 6.0534351145038165
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 55400
+Local best length: 33
+Local mean length: 24.746
+Local best width: 7
+Local mean width: 5.685
+Individuals in the Pareto front: 178
+Local Pareto front mean length: 25.168539325842698
+Local Pareto front mean width: 6.157303370786517
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 55800
+Local best length: 33
+Local mean length: 24.77
+Local best width: 7
+Local mean width: 5.765
+Individuals in the Pareto front: 246
+Local Pareto front mean length: 24.971544715447155
+Local Pareto front mean width: 6.296747967479675
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 56200
+Local best length: 33
+Local mean length: 24.717
+Local best width: 7
+Local mean width: 5.816
+Individuals in the Pareto front: 324
+Local Pareto front mean length: 24.876543209876544
+Local Pareto front mean width: 6.367283950617284
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 56600
+Local best length: 33
+Local mean length: 24.696
+Local best width: 7
+Local mean width: 5.971
+Individuals in the Pareto front: 444
+Local Pareto front mean length: 24.756756756756758
+Local Pareto front mean width: 6.452702702702703
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 57000
+Local best length: 33
+Local mean length: 24.577
+Local best width: 7
+Local mean width: 6.12
+Individuals in the Pareto front: 578
+Local Pareto front mean length: 24.614186851211073
+Local Pareto front mean width: 6.546712802768166
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 57400
+Local best length: 33
+Local mean length: 24.528
+Local best width: 7
+Local mean width: 6.322
+Individuals in the Pareto front: 713
+Local Pareto front mean length: 24.509116409537167
+Local Pareto front mean width: 6.6199158485273495
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 57800
+Local best length: 33
+Local mean length: 24.414
+Local best width: 7
+Local mean width: 6.538
+Individuals in the Pareto front: 855
+Local Pareto front mean length: 24.415204678362574
+Local Pareto front mean width: 6.687719298245614
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 58200
+Local best length: 33
+Local mean length: 24.324
+Local best width: 7
+Local mean width: 6.641
+Individuals in the Pareto front: 946
+Local Pareto front mean length: 24.37632135306554
+Local Pareto front mean width: 6.716701902748414
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 58600
+Local best length: 33
+Local mean length: 24.326
+Local best width: 7
+Local mean width: 6.709
+Individuals in the Pareto front: 984
+Local Pareto front mean length: 24.350609756097562
+Local Pareto front mean width: 6.737804878048781
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 59000
+Local best length: 33
+Local mean length: 24.236
+Local best width: 7
+Local mean width: 6.738
+Individuals in the Pareto front: 993
+Local Pareto front mean length: 24.316213494461227
+Local Pareto front mean width: 6.763343403826788
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 59400
+Local best length: 33
+Local mean length: 24.231
+Local best width: 7
+Local mean width: 6.78
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.268072289156628
+Local Pareto front mean width: 6.798192771084337
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 59800
+Local best length: 33
+Local mean length: 24.215
+Local best width: 7
+Local mean width: 6.803
+Individuals in the Pareto front: 994
+Local Pareto front mean length: 24.233400402414485
+Local Pareto front mean width: 6.825955734406438
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 60200
+Local best length: 33
+Local mean length: 24.191
+Local best width: 7
+Local mean width: 6.83
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.210843373493976
+Local Pareto front mean width: 6.844377510040161
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 60600
+Local best length: 33
+Local mean length: 24.125
+Local best width: 7
+Local mean width: 6.822
+Individuals in the Pareto front: 992
+Local Pareto front mean length: 24.195564516129032
+Local Pareto front mean width: 6.857862903225806
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 12
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 61000
+Local best length: 33
+Local mean length: 24.177
+Local best width: 7
+Local mean width: 6.873
+Individuals in the Pareto front: 999
+Local Pareto front mean length: 24.17817817817818
+Local Pareto front mean width: 6.872872872872873
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 61400
+Local best length: 33
+Local mean length: 24.103
+Local best width: 7
+Local mean width: 6.872
+Individuals in the Pareto front: 995
+Local Pareto front mean length: 24.149748743718593
+Local Pareto front mean width: 6.893467336683417
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 61800
+Local best length: 33
+Local mean length: 24.138
+Local best width: 7
+Local mean width: 6.896
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.132530120481928
+Local Pareto front mean width: 6.906626506024097
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 62200
+Local best length: 33
+Local mean length: 24.121
+Local best width: 7
+Local mean width: 6.912
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.117352056168507
+Local Pareto front mean width: 6.917753259779338
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 62600
+Local best length: 33
+Local mean length: 24.111
+Local best width: 7
+Local mean width: 6.92
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.107321965897693
+Local Pareto front mean width: 6.925777331995988
+Local Pareto front hypervolume: 238
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 63000
+Local best length: 33
+Local mean length: 24.079
+Local best width: 7
+Local mean width: 6.947
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.0811623246493
+Local Pareto front mean width: 6.94689378757515
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 10
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 63400
+Local best length: 33
+Local mean length: 24.076
+Local best width: 7
+Local mean width: 6.947
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.072144288577153
+Local Pareto front mean width: 6.952905811623246
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 25
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 63800
+Local best length: 33
+Local mean length: 24.065
+Local best width: 7
+Local mean width: 6.957
+Individuals in the Pareto front: 999
+Local Pareto front mean length: 24.066066066066067
+Local Pareto front mean width: 6.956956956956957
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 64200
+Local best length: 33
+Local mean length: 24.066
+Local best width: 7
+Local mean width: 6.955
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.063189568706118
+Local Pareto front mean width: 6.958876629889669
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 64600
+Local best length: 33
+Local mean length: 24.051
+Local best width: 7
+Local mean width: 6.966
+Individuals in the Pareto front: 999
+Local Pareto front mean length: 24.05205205205205
+Local Pareto front mean width: 6.965965965965966
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 65000
+Local best length: 33
+Local mean length: 24.053
+Local best width: 7
+Local mean width: 6.962
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.049098196392787
+Local Pareto front mean width: 6.967935871743487
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 28
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 65400
+Local best length: 33
+Local mean length: 24.049
+Local best width: 7
+Local mean width: 6.968
+Individuals in the Pareto front: 1000
+Local Pareto front mean length: 24.049
+Local Pareto front mean width: 6.968
+Local Pareto front hypervolume: 239
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 65800
+Local best length: 33
+Local mean length: 24.034
+Local best width: 7
+Local mean width: 6.978
+Individuals in the Pareto front: 1000
+Local Pareto front mean length: 24.034
+Local Pareto front mean width: 6.978
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 66200
+Local best length: 33
+Local mean length: 24.034
+Local best width: 7
+Local mean width: 6.978
+Individuals in the Pareto front: 1000
+Local Pareto front mean length: 24.034
+Local Pareto front mean width: 6.978
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 66600
+Local best length: 33
+Local mean length: 24.035
+Local best width: 7
+Local mean width: 6.975
+Individuals in the Pareto front: 999
+Local Pareto front mean length: 24.03903903903904
+Local Pareto front mean width: 6.974974974974975
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 67000
+Local best length: 33
+Local mean length: 24.039
+Local best width: 7
+Local mean width: 6.97
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.041082164328657
+Local Pareto front mean width: 6.973947895791583
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 67400
+Local best length: 33
+Local mean length: 24.04
+Local best width: 7
+Local mean width: 6.97
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.04809619238477
+Local Pareto front mean width: 6.969939879759519
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 67800
+Local best length: 33
+Local mean length: 24.043
+Local best width: 7
+Local mean width: 6.966
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.046138415245736
+Local Pareto front mean width: 6.970912738214644
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 68200
+Local best length: 33
+Local mean length: 24.051
+Local best width: 7
+Local mean width: 6.964
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.050100200400802
+Local Pareto front mean width: 6.968937875751503
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 68600
+Local best length: 33
+Local mean length: 24.051
+Local best width: 7
+Local mean width: 6.965
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.04609218436874
+Local Pareto front mean width: 6.970941883767535
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 28
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 69000
+Local best length: 33
+Local mean length: 24.053
+Local best width: 7
+Local mean width: 6.964
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.04809619238477
+Local Pareto front mean width: 6.969939879759519
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 69400
+Local best length: 33
+Local mean length: 24.043
+Local best width: 7
+Local mean width: 6.97
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.03807615230461
+Local Pareto front mean width: 6.975951903807616
+Local Pareto front hypervolume: 237
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 69800
+Local best length: 33
+Local mean length: 24.044
+Local best width: 7
+Local mean width: 6.968
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.0320962888666
+Local Pareto front mean width: 6.979939819458375
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 70200
+Local best length: 33
+Local mean length: 24.046
+Local best width: 7
+Local mean width: 6.966
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.03614457831325
+Local Pareto front mean width: 6.977911646586345
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 70600
+Local best length: 33
+Local mean length: 24.056
+Local best width: 7
+Local mean width: 6.958
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.046184738955823
+Local Pareto front mean width: 6.969879518072289
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 71000
+Local best length: 33
+Local mean length: 24.06
+Local best width: 7
+Local mean width: 6.956
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.050200803212853
+Local Pareto front mean width: 6.967871485943775
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 71400
+Local best length: 33
+Local mean length: 24.079
+Local best width: 7
+Local mean width: 6.942
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.06513026052104
+Local Pareto front mean width: 6.953907815631262
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 71800
+Local best length: 33
+Local mean length: 24.075
+Local best width: 7
+Local mean width: 6.946
+Individuals in the Pareto front: 999
+Local Pareto front mean length: 24.06806806806807
+Local Pareto front mean width: 6.951951951951952
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 72200
+Local best length: 33
+Local mean length: 24.088
+Local best width: 7
+Local mean width: 6.936
+Individuals in the Pareto front: 999
+Local Pareto front mean length: 24.08108108108108
+Local Pareto front mean width: 6.941941941941942
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 72600
+Local best length: 33
+Local mean length: 24.083
+Local best width: 7
+Local mean width: 6.939
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.083166332665332
+Local Pareto front mean width: 6.9448897795591185
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 27
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 73000
+Local best length: 33
+Local mean length: 24.094
+Local best width: 7
+Local mean width: 6.933
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.094188376753507
+Local Pareto front mean width: 6.938877755511022
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 73400
+Local best length: 33
+Local mean length: 24.101
+Local best width: 7
+Local mean width: 6.932
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.099297893681044
+Local Pareto front mean width: 6.939819458375125
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 73800
+Local best length: 33
+Local mean length: 24.113
+Local best width: 7
+Local mean width: 6.93
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.10821643286573
+Local Pareto front mean width: 6.935871743486974
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 74200
+Local best length: 33
+Local mean length: 24.123
+Local best width: 7
+Local mean width: 6.921
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.120361083249747
+Local Pareto front mean width: 6.926780341023069
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 74600
+Local best length: 33
+Local mean length: 24.124
+Local best width: 7
+Local mean width: 6.918
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.1144578313253
+Local Pareto front mean width: 6.929718875502008
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 75000
+Local best length: 33
+Local mean length: 24.128
+Local best width: 7
+Local mean width: 6.913
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.11847389558233
+Local Pareto front mean width: 6.924698795180723
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 75400
+Local best length: 33
+Local mean length: 24.112
+Local best width: 7
+Local mean width: 6.926
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.109327983951857
+Local Pareto front mean width: 6.931795386158475
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 75800
+Local best length: 33
+Local mean length: 24.115
+Local best width: 7
+Local mean width: 6.92
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 24.113453815261042
+Local Pareto front mean width: 6.926706827309237
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 76200
+Local best length: 33
+Local mean length: 24.122
+Local best width: 7
+Local mean width: 6.912
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.119358074222667
+Local Pareto front mean width: 6.917753259779338
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 76600
+Local best length: 33
+Local mean length: 24.111
+Local best width: 7
+Local mean width: 6.921
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.108324974924773
+Local Pareto front mean width: 6.926780341023069
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 77000
+Local best length: 33
+Local mean length: 24.12
+Local best width: 7
+Local mean width: 6.913
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 24.12424849699399
+Local Pareto front mean width: 6.912825651302605
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 77400
+Local best length: 33
+Local mean length: 24.107
+Local best width: 7
+Local mean width: 6.924
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.10330992978937
+Local Pareto front mean width: 6.933801404212638
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 26
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 77800
+Local best length: 33
+Local mean length: 24.105
+Local best width: 7
+Local mean width: 6.922
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.101303911735204
+Local Pareto front mean width: 6.931795386158475
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 78200
+Local best length: 33
+Local mean length: 24.117
+Local best width: 7
+Local mean width: 6.91
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 24.113340020060182
+Local Pareto front mean width: 6.9197592778335
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 78600
+Local best length: 33
+Local mean length: 24.159
+Local best width: 7
+Local mean width: 6.88
+Individuals in the Pareto front: 61
+Local Pareto front mean length: 26.360655737704917
+Local Pareto front mean width: 5.442622950819672
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 79000
+Local best length: 33
+Local mean length: 24.279
+Local best width: 7
+Local mean width: 6.786
+Individuals in the Pareto front: 106
+Local Pareto front mean length: 26.29245283018868
+Local Pareto front mean width: 5.5
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 79400
+Local best length: 33
+Local mean length: 24.42
+Local best width: 7
+Local mean width: 6.695
+Individuals in the Pareto front: 166
+Local Pareto front mean length: 26.210843373493976
+Local Pareto front mean width: 5.632530120481928
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 13
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 79800
+Local best length: 33
+Local mean length: 24.618
+Local best width: 7
+Local mean width: 6.59
+Individuals in the Pareto front: 263
+Local Pareto front mean length: 26.155893536121674
+Local Pareto front mean width: 5.722433460076045
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 13
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 80200
+Local best length: 33
+Local mean length: 24.911
+Local best width: 7
+Local mean width: 6.437
+Individuals in the Pareto front: 407
+Local Pareto front mean length: 26.1007371007371
+Local Pareto front mean width: 5.815724815724816
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 80600
+Local best length: 33
+Local mean length: 25.313
+Local best width: 7
+Local mean width: 6.229
+Individuals in the Pareto front: 605
+Local Pareto front mean length: 26.082644628099175
+Local Pareto front mean width: 5.857851239669421
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 81000
+Local best length: 33
+Local mean length: 25.728
+Local best width: 7
+Local mean width: 6.05
+Individuals in the Pareto front: 827
+Local Pareto front mean length: 26.05441354292624
+Local Pareto front mean width: 5.90447400241838
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 81400
+Local best length: 33
+Local mean length: 25.995
+Local best width: 7
+Local mean width: 5.936
+Individuals in the Pareto front: 968
+Local Pareto front mean length: 26.041322314049587
+Local Pareto front mean width: 5.927685950413223
+Local Pareto front hypervolume: 231
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 81800
+Local best length: 33
+Local mean length: 26.042
+Local best width: 7
+Local mean width: 5.925
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.041082164328657
+Local Pareto front mean width: 5.928857715430862
+Local Pareto front hypervolume: 231
+Number of children: 400
+Number of mutations: 30
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 82200
+Local best length: 33
+Local mean length: 26.04
+Local best width: 7
+Local mean width: 5.928
+Individuals in the Pareto front: 1000
+Local Pareto front mean length: 26.04
+Local Pareto front mean width: 5.928
+Local Pareto front hypervolume: 232
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 82600
+Local best length: 33
+Local mean length: 26.042
+Local best width: 7
+Local mean width: 5.928
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.04012036108325
+Local Pareto front mean width: 5.930792377131394
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 83000
+Local best length: 33
+Local mean length: 26.038
+Local best width: 7
+Local mean width: 5.938
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.036108324974926
+Local Pareto front mean width: 5.9408224674022065
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 83400
+Local best length: 33
+Local mean length: 26.034
+Local best width: 7
+Local mean width: 5.946
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.0320962888666
+Local Pareto front mean width: 5.948846539618857
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 15
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 83800
+Local best length: 33
+Local mean length: 26.025
+Local best width: 7
+Local mean width: 5.961
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.023069207622868
+Local Pareto front mean width: 5.963891675025075
+Local Pareto front hypervolume: 233
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 84200
+Local best length: 33
+Local mean length: 26.025
+Local best width: 7
+Local mean width: 5.96
+Individuals in the Pareto front: 13
+Local Pareto front mean length: 28.53846153846154
+Local Pareto front mean width: 2.3846153846153846
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 30
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 84600
+Local best length: 33
+Local mean length: 26.041
+Local best width: 7
+Local mean width: 5.922
+Individuals in the Pareto front: 20
+Local Pareto front mean length: 28.2
+Local Pareto front mean width: 2.6
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 85000
+Local best length: 33
+Local mean length: 26.055
+Local best width: 7
+Local mean width: 5.885
+Individuals in the Pareto front: 25
+Local Pareto front mean length: 28.08
+Local Pareto front mean width: 2.68
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 85400
+Local best length: 33
+Local mean length: 26.074
+Local best width: 7
+Local mean width: 5.847
+Individuals in the Pareto front: 33
+Local Pareto front mean length: 27.90909090909091
+Local Pareto front mean width: 2.878787878787879
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 31
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 85800
+Local best length: 33
+Local mean length: 26.105
+Local best width: 7
+Local mean width: 5.778
+Individuals in the Pareto front: 49
+Local Pareto front mean length: 27.79591836734694
+Local Pareto front mean width: 2.938775510204082
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 86200
+Local best length: 33
+Local mean length: 26.106
+Local best width: 7
+Local mean width: 5.822
+Individuals in the Pareto front: 63
+Local Pareto front mean length: 27.61904761904762
+Local Pareto front mean width: 3.2698412698412698
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 27
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 86600
+Local best length: 33
+Local mean length: 26.114
+Local best width: 7
+Local mean width: 5.804
+Individuals in the Pareto front: 79
+Local Pareto front mean length: 27.468354430379748
+Local Pareto front mean width: 3.569620253164557
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 87000
+Local best length: 33
+Local mean length: 26.131
+Local best width: 7
+Local mean width: 5.757
+Individuals in the Pareto front: 115
+Local Pareto front mean length: 27.269565217391303
+Local Pareto front mean width: 3.9478260869565216
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 28
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 87400
+Local best length: 33
+Local mean length: 26.189
+Local best width: 7
+Local mean width: 5.685
+Individuals in the Pareto front: 155
+Local Pareto front mean length: 27.18709677419355
+Local Pareto front mean width: 4.090322580645161
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 87800
+Local best length: 33
+Local mean length: 26.201
+Local best width: 7
+Local mean width: 5.695
+Individuals in the Pareto front: 131
+Local Pareto front mean length: 26.435114503816795
+Local Pareto front mean width: 5.977099236641221
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 88200
+Local best length: 33
+Local mean length: 26.215
+Local best width: 7
+Local mean width: 5.732
+Individuals in the Pareto front: 207
+Local Pareto front mean length: 26.396135265700483
+Local Pareto front mean width: 6.057971014492754
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 88600
+Local best length: 33
+Local mean length: 26.232
+Local best width: 7
+Local mean width: 5.78
+Individuals in the Pareto front: 313
+Local Pareto front mean length: 26.37380191693291
+Local Pareto front mean width: 6.086261980830671
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 14
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 89000
+Local best length: 33
+Local mean length: 26.246
+Local best width: 7
+Local mean width: 5.878
+Individuals in the Pareto front: 487
+Local Pareto front mean length: 26.35318275154004
+Local Pareto front mean width: 6.08829568788501
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 28
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 89400
+Local best length: 33
+Local mean length: 26.305
+Local best width: 7
+Local mean width: 5.918
+Individuals in the Pareto front: 674
+Local Pareto front mean length: 26.364985163204746
+Local Pareto front mean width: 6.053412462908012
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 89800
+Local best length: 33
+Local mean length: 26.347
+Local best width: 7
+Local mean width: 5.984
+Individuals in the Pareto front: 878
+Local Pareto front mean length: 26.37129840546697
+Local Pareto front mean width: 6.023917995444191
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 25
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 90200
+Local best length: 33
+Local mean length: 26.387
+Local best width: 7
+Local mean width: 5.967
+Individuals in the Pareto front: 984
+Local Pareto front mean length: 26.385162601626018
+Local Pareto front mean width: 5.974593495934959
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 90600
+Local best length: 33
+Local mean length: 26.402
+Local best width: 7
+Local mean width: 5.934
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 26.395582329317268
+Local Pareto front mean width: 5.9417670682730925
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 91000
+Local best length: 33
+Local mean length: 26.405
+Local best width: 7
+Local mean width: 5.925
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 26.39859437751004
+Local Pareto front mean width: 5.932730923694779
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 91400
+Local best length: 33
+Local mean length: 26.413
+Local best width: 7
+Local mean width: 5.874
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.409819639278556
+Local Pareto front mean width: 5.877755511022044
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 28
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 91800
+Local best length: 33
+Local mean length: 26.427
+Local best width: 7
+Local mean width: 5.817
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.42384769539078
+Local Pareto front mean width: 5.820641282565131
+Local Pareto front hypervolume: 236
+Number of children: 400
+Number of mutations: 24
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 92200
+Local best length: 30
+Local mean length: 26.422
+Local best width: 7
+Local mean width: 5.809
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.42384769539078
+Local Pareto front mean width: 5.807615230460922
+Local Pareto front hypervolume: 231
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 92600
+Local best length: 30
+Local mean length: 26.423
+Local best width: 7
+Local mean width: 5.792
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.42384769539078
+Local Pareto front mean width: 5.793587174348698
+Local Pareto front hypervolume: 231
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 93000
+Local best length: 30
+Local mean length: 26.442
+Local best width: 7
+Local mean width: 5.734
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.442326980942827
+Local Pareto front mean width: 5.738214643931795
+Local Pareto front hypervolume: 231
+Number of children: 400
+Number of mutations: 20
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 93400
+Local best length: 30
+Local mean length: 26.297
+Local best width: 7
+Local mean width: 6.191
+Individuals in the Pareto front: 747
+Local Pareto front mean length: 26.068273092369477
+Local Pareto front mean width: 6.914323962516733
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 93800
+Local best length: 30
+Local mean length: 26.12
+Local best width: 7
+Local mean width: 6.751
+Individuals in the Pareto front: 943
+Local Pareto front mean length: 26.071049840933192
+Local Pareto front mean width: 6.910922587486745
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 94200
+Local best length: 30
+Local mean length: 26.076
+Local best width: 7
+Local mean width: 6.901
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.074222668004012
+Local Pareto front mean width: 6.907723169508525
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 94600
+Local best length: 30
+Local mean length: 26.068
+Local best width: 7
+Local mean width: 6.916
+Individuals in the Pareto front: 1000
+Local Pareto front mean length: 26.068
+Local Pareto front mean width: 6.916
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 30
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 95000
+Local best length: 30
+Local mean length: 26.055
+Local best width: 7
+Local mean width: 6.916
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 26.063253012048193
+Local Pareto front mean width: 6.921686746987952
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 95400
+Local best length: 30
+Local mean length: 26.051
+Local best width: 7
+Local mean width: 6.921
+Individuals in the Pareto front: 996
+Local Pareto front mean length: 26.059236947791163
+Local Pareto front mean width: 6.926706827309237
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 23
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 95800
+Local best length: 30
+Local mean length: 26.044
+Local best width: 7
+Local mean width: 6.931
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.053159478435305
+Local Pareto front mean width: 6.933801404212638
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 96200
+Local best length: 30
+Local mean length: 26.036
+Local best width: 7
+Local mean width: 6.941
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.045135406218655
+Local Pareto front mean width: 6.94383149448345
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 22
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 96600
+Local best length: 30
+Local mean length: 26.036
+Local best width: 7
+Local mean width: 6.952
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.03607214428858
+Local Pareto front mean width: 6.954909819639279
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 18
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 97000
+Local best length: 30
+Local mean length: 26.046
+Local best width: 7
+Local mean width: 6.94
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.04609218436874
+Local Pareto front mean width: 6.94188376753507
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 97400
+Local best length: 30
+Local mean length: 26.047
+Local best width: 7
+Local mean width: 6.939
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.047094188376754
+Local Pareto front mean width: 6.940881763527054
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 97800
+Local best length: 30
+Local mean length: 26.045
+Local best width: 7
+Local mean width: 6.941
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.04308617234469
+Local Pareto front mean width: 6.9448897795591185
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 16
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 98200
+Local best length: 30
+Local mean length: 26.036
+Local best width: 7
+Local mean width: 6.95
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.036108324974926
+Local Pareto front mean width: 6.953861584754263
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 21
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 98600
+Local best length: 30
+Local mean length: 26.039
+Local best width: 7
+Local mean width: 6.949
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.037074148296593
+Local Pareto front mean width: 6.952905811623246
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 12
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 99000
+Local best length: 30
+Local mean length: 26.02
+Local best width: 7
+Local mean width: 6.956
+Individuals in the Pareto front: 997
+Local Pareto front mean length: 26.03309929789368
+Local Pareto front mean width: 6.957873620862588
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 29
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 99400
+Local best length: 30
+Local mean length: 26.032
+Local best width: 7
+Local mean width: 6.951
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.037074148296593
+Local Pareto front mean width: 6.952905811623246
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 19
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 99800
+Local best length: 30
+Local mean length: 26.033
+Local best width: 7
+Local mean width: 6.95
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.03807615230461
+Local Pareto front mean width: 6.95190380761523
+Local Pareto front hypervolume: 234
+Number of children: 400
+Number of mutations: 17
+Pre-survival population size: 1400
+Post-survival population size: 1000
+Evaluations: 100200
+Local best length: 30
+Local mean length: 26.034
+Local best width: 7
+Local mean width: 6.949
+Individuals in the Pareto front: 998
+Local Pareto front mean length: 26.039078156312627
+Local Pareto front mean width: 6.9509018036072145
+Local Pareto front hypervolume: 234

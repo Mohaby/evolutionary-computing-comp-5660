@@ -1,0 +1,3 @@
+Overall Best Base Fitness : 138.37209302325581
+Mean of Best Base Fitness : 127.1589811738649
+Standard Deviation of Best Base Fitness : 8.087249063755193
